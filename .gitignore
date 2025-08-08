@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 lib/chat_screen.dart:52
+lib/Key.dart
+lib/key.dart
